@@ -1,6 +1,6 @@
-# gostack-modulo07
+# RocketShoes web
 
-## Table of Contents
+## Tabela de conteúdos
 
 - [Sobre](#Sobre)
 - [Setup](#getting_started)
