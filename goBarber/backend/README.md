@@ -4,7 +4,7 @@
 - [Setup](#getting_started)
 - [Pré-requisitos](#requisites)
 
-## 🧐 About <a name = "about"></a>
+## 🧐 Sobre <a name = "about"></a>
 
 Projeto do goBarber da RocketSeat.
 
