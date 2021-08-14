@@ -1,0 +1,27 @@
+.post {
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    float: left;
+}
+
+.bolded {
+    color: #222;
+    font-weight: bold;
+}
+
+
+.soft {
+    color: gray;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    line-height: 20px;
+}

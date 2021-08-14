@@ -1,0 +1,24 @@
+.header-color {
+  background-color: #4a90e2;
+}
+
+.font-profile {
+  font-weight: bolder;
+  color: #fff;
+}
+
+.font-big {
+  font-weight: bolder;
+  color: #fff;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  cursor: pointer;
+}

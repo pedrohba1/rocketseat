@@ -1,0 +1,17 @@
+.comment {
+    display: flex;
+    background-color: #EEEEEE;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.author {
+    font-weight: bold;
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    float: left;
+}
